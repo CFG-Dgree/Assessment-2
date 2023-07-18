@@ -48,4 +48,4 @@ c.What components or tools would you potentially use?
 ### Tools:
 1. Backend algorithm (Python, Java)
 2. Frontend interface design (html/css/JavaScript)
-3. API for payment.
+3. API for payment
